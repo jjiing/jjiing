@@ -1,5 +1,6 @@
 # jjing
 
+[![Velog](http://img.shields.io/badge/Velog-20C997?style=flat_square&logo=Instagram&logoColor=white)](https://velog.io/@ko0930)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat_square&logo=Instagram&logoColor=white)](https://www.instagram.com/ko.jjing/)
 
 <!--
