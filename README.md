@@ -3,7 +3,7 @@
 [![Velog](http://img.shields.io/badge/Velog-20C997?style=flat_square&logo=Instagram&logoColor=white)](https://velog.io/@ko0930)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat_square&logo=Instagram&logoColor=white)](https://www.instagram.com/ko.jjing/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ko0930)](https://solved.ac/ko0930/)
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 <!--
 **jjiing/jjiing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
