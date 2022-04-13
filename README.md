@@ -1,6 +1,6 @@
 # jjing
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-09B3AF?style=flat&logoColor=white)](https://https://jjing-log.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-336699?style=flat&logoColor=white)](https://https://jjing-log.tistory.com/)
 [![Velog](http://img.shields.io/badge/Velog-20C997?style=flat_square&logo=Instagram&logoColor=white)](https://velog.io/@ko0930)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat_square&logo=Instagram&logoColor=white)](https://www.instagram.com/ko.jjing/)
 
