@@ -1,6 +1,6 @@
 <div align="center">
 
- Hello! I'm Jieun😄
+# Hello! I'm Jieun😄
 
 
 
