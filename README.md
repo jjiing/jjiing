@@ -1,6 +1,6 @@
-<div align="center">
 
-## Hello! I'm Jieun😄
+
+## About me
 
 
 
@@ -16,7 +16,7 @@
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://working-biology-d5d.notion.site/My-Notion-4d9384b29362488498e6348ec5323685)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat_square&logo=Instagram&logoColor=white)](https://www.instagram.com/ko.jjing/)
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=ko0930)](https://solved.ac/ko0930)
-</div>
+
 <!--
 **jjiing/jjiing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
